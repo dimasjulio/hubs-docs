@@ -14,7 +14,7 @@ We recommend using spoke on a desktop or laptop computer as some features are no
 <td> Rotate Scene </td>		<td> Left Mouse Button </td>				<td> In the Viewport panel </td>
 </tr>
 <tr>
-<td> Pan Scene </td>		<td> Middle Mouse Button </td>				<td> In the Viewport panel </td>
+<td> Pan Scene </td>		<td> 1 </td>				<td> In the Viewport panel </td>
 </tr>
 <tr>
 <td> Fly </td>		<td> Right Mouse Button + WASD keys </td>				<td> In the Viewport panel </td>
